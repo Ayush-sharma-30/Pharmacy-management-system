@@ -17,37 +17,6 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 
 * Import the Pharamcy-Drug-Management-System to Eclipse IDE 
 
-## ScreenShots
-### Index Page
-![](Screenshots/Index.png)
-
-
-### Login Page
-![](Screenshots/Login.png)
-
-
-### Register Page
-![](Screenshots/SellerRegister.png)
-
-
-### Customer Homepage
-![](Screenshots/CustomerHomepage.png)
-
-
-### Vendor Homepage
-![](Screenshots/VendorHomepage.png)
-
-
-### Buy Page
-![](Screenshots/Buy%201.png)
-
-
-![](Screenshots/Buy%202.png)
-
-
-### Vendor Restock Page
-![](Screenshots/Restock.png)
-
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)

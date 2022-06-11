@@ -1,5 +1,5 @@
 # Pharmacy Drug Management System (DBMS Mini Project)
-DBMS Mini Project under 2017 VTU CBCS for 5th semester
+DBMS Mini Project for 5th semester
 
 ## Instructions
 ### Back End
@@ -17,9 +17,6 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 
 * Import the Pharamcy-Drug-Management-System to Eclipse IDE 
 
-
-## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
 
 ## Image Links
 
